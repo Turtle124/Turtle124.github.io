@@ -1,0 +1,562 @@
+{
+  "Aarav": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Aaradhya": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Advik": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Anaya": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Aryan": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Ishaan": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Kabir": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Krish": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Mira": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Neha": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Rohan": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Ruhi": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Saanvi": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Vihaan": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Zara": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Arnav": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Ayaan": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Diya": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Isha": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Kabir": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Kiara": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Riya": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Rudra": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Sara": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Shanaya": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Arjun": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Ayaan": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Ira": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Ishika": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Aadvik": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Aarohi": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Aarush": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Aradhya": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Arya": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Advika": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Anvi": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Atharva": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Dhruv": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Ishita": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Aahan": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Aarav": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Aaradhya": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Advik": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Anaya": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Aryan": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Ishaan": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Kabir": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Krish": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Mira": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Neha": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Rohan": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Ruhi": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Saanvi": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Vihaan": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Zara": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Arnav": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Ayaan": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Diya": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Isha": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Kabir": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Kiara": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Riya": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Rudra": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Sara": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Shanaya": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Arjun": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Ayaan": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Ira": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Ishika": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Aadvik": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Aarohi": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Aarush": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Aradhya": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Arya": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Advika": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Anvi": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Atharva": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Dhruv": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Ishita": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Aahan": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  }
+}
